@@ -1,0 +1,1 @@
+print(f"That is {float(input("Please enter an amount of centimeters: ")) * 0.393} inches")
